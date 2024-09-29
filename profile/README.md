@@ -1,12 +1,21 @@
-## Hi there 👋
+# Meet GOTOSoT
+GOTOSoT is the first global initiative of GOTODOCO.
 
-<!--
+| [Overview](#overview) |[Roadmap](#roadmap) |
+| --| --|
 
-**Here are some ideas to get you started:**
+## Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+GOTOSoT is a global and central GOTO and Source of Truth [SoT] for popular supporting files and content, including:
+- Project files to use for instructed tutorials.
+- Code samples.
+- Contextual references and dictionaries.
+- Ready-to-use templates.
+- Articles.
+
+### Roadmap 
+- [GitHub](https://github.com/orgs/GOTOSoT/projects/2/views/1)
+- [Demo](https://demos.gotodoco.com/gotosot)
+
+
+Visit [GOTODOCO](https://gotodoco.com) to learn more.
