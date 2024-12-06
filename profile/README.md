@@ -1,6 +1,22 @@
-# Meet GOTOSoT
-GOTOSoT is the first global initiative of GOTODOCO.
+# Welcome to GOTOSoT
 
+A GOTODOCO global initiative to create a simple, consistent, and standard approach to DOCO, content, and information.
+
+## Core Focus Areas
+
+- Terminology
+- Frameworks
+- Structures
+- Hierarchies
+- Navigation
+- References
+- Naming conventions
+- Use Cases
+
+## Identified Improvements
+
+- Context (
+## 
 | [Overview](#overview)| [Framework](#framework) |[Roadmap](#roadmap) |
 | --| --|--|
 
