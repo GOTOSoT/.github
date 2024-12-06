@@ -14,10 +14,7 @@ A GOTODOCO global initiative to create a simple, consistent, and standard approa
 ### Context 
 - Terminology
 - Dictionaries
-- DOCO types and Use cases
-- Output options
-- Original source
-- Validation
+- DOCO types and uses
 
 ### Structures
 - Frameworks
@@ -31,18 +28,20 @@ A GOTODOCO global initiative to create a simple, consistent, and standard approa
 - Personas
 
 ### Source Control
+- Sourcing information and validation
 - Source and version control
 - Setup and Structures
 - Open source and Private
-- Best practice
 
 ### Engagement
+
 - Delivery and consumption
 - Accessibility
 - Tools and methods
 
 ### Transformation
 To help you transition to this new way.
+
 - Samples
 - Case Studies
 - Best practice
