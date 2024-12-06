@@ -3,13 +3,14 @@
 A GOTODOCO global initiative to create a simple, consistent, and standard approach to DOCO, content, and information.
 
 ## Core Improvement Areas
-- Context and Source
+- Context 
 - Structures
-- Use Case 
+- Use Case
+- Source Control
 - Engagement
 - Transformation
 
-## Core Focus Areas
+## Focus Areas
 ### Context 
 - Terminology
 - Dictionaries
@@ -24,20 +25,26 @@ A GOTODOCO global initiative to create a simple, consistent, and standard approa
 - Navigation
 - Naming conventions
 
-### Personas and Use Case
+### Use Case
 - Industry
 - Lessons learned
 - Personas
+
+### Source Control
+- Source and version control
+- Setup and Structures
+- Open source and Private
+- Best practice
 
 ### Engagement
 - Delivery and consumption
 - Accessibility
 - Tools and methods
-- Source and version control
 
 ### Transformation
 To help you transition to this new way.
 - Samples
+- Case Studies
 - Best practice
 - Change management and transition
 
