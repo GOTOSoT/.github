@@ -9,4 +9,3 @@ A [GOTODOCO](https://github.com/GOTODOCO) initiative to create a central Source 
 - Samples
 - Templates
 
-Visit our [roadmap](https://github.com/orgs/GOTOSoT/projects/2/views/1) to learn more.
