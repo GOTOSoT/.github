@@ -71,7 +71,6 @@ To help you transition to this new way.
 
 ### Roadmap 
 - [GitHub](https://github.com/orgs/GOTOSoT/projects/2/views/1)
-- [Demo](https://demos.gotodoco.com/gotosot)
 
 
 Visit [GOTODOCO](https://gotodoco.com) to learn more.
